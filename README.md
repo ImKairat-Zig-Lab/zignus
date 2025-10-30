@@ -1,1 +1,1 @@
-## Static site generator (SSG)
+# Static site generator (SSG)
